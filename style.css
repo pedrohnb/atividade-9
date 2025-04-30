@@ -1,0 +1,75 @@
+@charset "UTF-8";
+
+body{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1280px-Python_logo_and_wordmark.svg.png);
+    background-repeat: repeat;
+    background-size: cover;
+    font-family: "Times New Roman", Times, serif;
+}
+
+h1{
+    text-align: center;
+    font-size: 48px
+}
+
+h2{
+    font-size: 36px;
+    margin-left: 12px;
+}
+
+h3{
+    font-size: 24px;
+    margin-left: 32px;
+}
+
+h4{
+    font-size: 16px;
+    margin-left: 32px;
+}
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(54, 105, 216);
+    padding: 8px 16px;
+    border-radius: 5px;
+}
+
+a:hover{
+    text-decoration: underline;
+    box-shadow: 0px 1px 3px 1px rgba(192, 189, 12, 0.2);
+    transition: 0.5s;
+}
+
+p{
+    font-size: 20px;
+    line-height: 30px;
+    margin-left: 25px;
+}
+
+#pandas{
+    font-family: Arial, sans-serif;
+}
+
+#numPy{
+    font-family: Helvetica, sans-serif;
+}
+
+#scikit-learn{
+    font-family: Verdana, sans-serif;
+}
+
+#matplotlib{
+    font-family: Gill Sans, sans-serif;
+}
+
+#TensorFlow{
+    font-family: Noto Sans, serif;
+}
+
+#PyTorch{
+    font-family: Arial Narrow, monospace;
+}
