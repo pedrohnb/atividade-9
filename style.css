@@ -2,7 +2,7 @@
 
 body{
     background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1280px-Python_logo_and_wordmark.svg.png);
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-size: cover;
     font-family: "Times New Roman", Times, serif;
 }
